@@ -1,4 +1,4 @@
-speak-to-wp
+Speak to WP
 ===========
 
 An experimental WordPress plugin that lets visitors and users navigate using their voice. Powered by [Annyang](https://www.talater.com/annyang/) and the [HTML5 Speech Recognition API](http://shapeshed.com/html5-speech-recognition-api/) (only in desktop Chrome version 25 or higher at the moment).
